@@ -14,6 +14,8 @@
   <a href="https://github.com/bpedrazaa">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpedrazaa&layout=compact&hide_border=false&locale=en&bg_color=ffffff&title_color=0366d6&text_color=24292e&border_color=d1d5da" />
   </a>
+  <br>
+  <img src="https://github-repository-contribution-stats.vercel.app/api/?username=bpedrazaa&theme=default" alt="Repository Contribution Stats" />
 </div>
 
 <br clear="both">
