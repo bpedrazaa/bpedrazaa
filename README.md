@@ -1,11 +1,11 @@
 # Boris Pedraza
 
-<h4 align="center">I am a Software Engineer from Bolivia</h4>
+<h3 align="left">I am a Software Engineer from Bolivia</h3>
 
-- I build efficient solutions using a variety of modern and not so modern frameworks/programming languages.
-- Backend-focused developer with experience in systems architecture and Linux environments.
-- Linux enthusiast (I use Arch BTW) with solid foundations in system administration.
-- Strong believer in fundamental computer science principles.
+- I build efficient solutions using both modern and established technologies.
+- Backend-focused developer with growing experience in systems architecture.
+- Linux enthusiast (I use Arch, btw) with solid system administration skills.
+- Firm believer that strong computer science fundamentals make any tool accessible.
 
 <div align="center">
   <a href="https://github.com/bpedrazaa">
@@ -20,20 +20,13 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c language logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
 </div>
 
 <br clear="both">
