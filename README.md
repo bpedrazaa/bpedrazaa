@@ -1,4 +1,4 @@
-# Personal GitHub Profile
+# Boris Pedraza
 
 <h3 align="left">Hello there, I'm Boris Pedraza</h3>
 <h4 align="left">A passionate Software Engineer from Bolivia</h4>
@@ -8,12 +8,12 @@
 - Linux enthusiast (I use Arch BTW) with solid foundations in system administration.
 - Strong believer in fundamental computer science principles.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bpedrazaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bpedrazaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<img align="right" height="100" src="./assets/github_profile_pic.jpeg"  />
+<a href="https://github.com/bpedrazaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpedrazaa&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&line_height=24&disable_animations=false&locale=en&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
+</a>
+<a href="https://github.com/bpedrazaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpedrazaa&layout=compact&hide_border=false&locale=en&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+</a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
@@ -43,9 +43,3 @@
 </div>
 
 <br clear="both">
-
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bpedrazaa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
