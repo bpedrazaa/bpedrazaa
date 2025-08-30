@@ -8,12 +8,16 @@
 - Linux enthusiast (I use Arch BTW) with solid foundations in system administration.
 - Strong believer in fundamental computer science principles.
 
-<a href="https://github.com/bpedrazaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpedrazaa&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&line_height=24&disable_animations=false&locale=en&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
-</a>
-<a href="https://github.com/bpedrazaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpedrazaa&layout=compact&hide_border=false&locale=en&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
-</a>
+<div align="center">
+  <a href="https://github.com/bpedrazaa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bpedrazaa&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&line_height=24&disable_animations=false&locale=en&hide_border=false&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6&border_color=d1d5da" />
+  </a>
+  <a href="https://github.com/bpedrazaa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpedrazaa&layout=compact&hide_border=false&locale=en&bg_color=ffffff&title_color=0366d6&text_color=24292e&border_color=d1d5da" />
+  </a>
+</div>
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
@@ -33,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 </div>
 
+<br clear="both">
+
 <div align="left">
   <a href="mailto:bpedrazaa@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -41,5 +47,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<br clear="both">
